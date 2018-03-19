@@ -2,7 +2,7 @@
 #first and last customer names. 
 #The names must be in separate
 #columns, either Col#n.FirstName and Col#n+1.LastName,
-#or Col#n.LastName and Col#n+1.FirstName (see line 31).
+#or Col#n.LastName and Col#n+1.FirstName (see line 46).
 #Input file must be a tab-separated spreadsheet formatted
 #in UTF-8.
 
