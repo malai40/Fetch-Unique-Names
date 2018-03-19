@@ -50,7 +50,7 @@ col2 = col1+1
 #		break
 #	except ValueError:
 #		print('Please enter an integer. ')
-###Then, you may comment out line 30 for efficiency
+###Then, you may comment out line 45 for efficiency
 ###End supplementary code
 
 #Find and delete duplicate customer names and rows
